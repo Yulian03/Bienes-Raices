@@ -57,7 +57,7 @@
                         </li>
                     </ul>
                     
-                    <a href="anuncio.html" class="boton-amarillo-block">
+                    <a href="anuncio.php" class="boton-amarillo-block">
                         Ver Propiedad
                     </a>
                 </div> <!-- .contenido anuncio -->
@@ -88,7 +88,7 @@
                         </li>
                     </ul>
                     
-                    <a href="anuncio.html" class="boton-amarillo-block">
+                    <a href="anuncio.php" class="boton-amarillo-block">
                         Ver Propiedad
                     </a>
                 </div> <!-- .contenido anuncio -->
@@ -119,7 +119,7 @@
                         </li>
                     </ul>
                     
-                    <a href="anuncio.html" class="boton-amarillo-block">
+                    <a href="anuncio.php" class="boton-amarillo-block">
                         Ver Propiedad
                     </a>
                 </div> <!-- .contenido anuncio -->
@@ -128,7 +128,7 @@
         </div>  <!-- .Contenedor anuncios  -->
 
         <div class="alinear-derecha">
-            <a href="anuncios.html" class="boton-verde">Ver Todas</a>
+            <a href="anuncios.php" class="boton-verde">Ver Todas</a>
 
         </div>
 
@@ -137,7 +137,7 @@
     <section class="imagen-contacto">
         <h2>Encuentra la casa de tus sueños</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed vestibulum justo.</p>
-        <a href="contacto.html" class="boton-amarillo">Contactános</a>
+        <a href="contacto.php" class="boton-amarillo">Contactános</a>
     </section>
 
     <div class="contenedor seccion seccion-inferior">
@@ -154,7 +154,7 @@
                 </div>
  
                 <div class="texto-entrada">
-                    <a href="entrada.html">
+                    <a href="entrada.php">
                         <h4>Terraza en el techo de tu casa</h4>
                         <p class="informacion-meta">Escrito el: <span>23/05/2023</span> por: <span>Admin</span></p>
                         <p>Consejo para construir una terraza en el techo de tu casa con los mejores materiales y ahorrando dinero</p>
@@ -175,7 +175,7 @@
                 </div>
  
                 <div class="texto-entrada">
-                    <a href="entrada.html">
+                    <a href="entrada.php">
                         <h4>Guía para la decoracion de tu hogar</h4>
                         <p class="informacion-meta">Escrito el: <span>23/05/2023</span> por: <span>Admin</span></p>
                         <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean aliquet convallis porttitor</p>
@@ -197,7 +197,7 @@
     </div>
 
 <?php
-   
+
     include 'includes/templates/footer.php';
 ?>
 

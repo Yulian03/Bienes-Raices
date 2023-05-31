@@ -16,7 +16,7 @@
             </div>
 
             <div class="texto-entrada">
-                <a href="entrada.html">
+                <a href="entrada.php">
                     <h4>Terraza en el techo de tu casa</h4>
                     <p class="informacion-meta">Escrito el: <span>23/05/2023</span> por: <span>Admin</span></p>
                     <p>Consejo para construir una terraza en el techo de tu casa con los mejores materiales y ahorrando dinero</p>
@@ -36,7 +36,7 @@
             </div>
 
             <div class="texto-entrada">
-                <a href="entrada.html">
+                <a href="entrada.php">
                     <h4>Terraza en el techo de tu casa</h4>
                     <p class="informacion-meta">Escrito el: <span>23/05/2023</span> por: <span>Admin</span></p>
                     <p>Consejo para construir una terraza en el techo de tu casa con los mejores materiales y ahorrando dinero</p>
@@ -56,7 +56,7 @@
             </div>
 
             <div class="texto-entrada">
-                <a href="entrada.html">
+                <a href="entrada.php">
                     <h4>Terraza en el techo de tu casa</h4>
                     <p class="informacion-meta">Escrito el: <span>23/05/2023</span> por: <span>Admin</span></p>
                     <p>Consejo para construir una terraza en el techo de tu casa con los mejores materiales y ahorrando dinero</p>
@@ -76,7 +76,7 @@
             </div>
 
             <div class="texto-entrada">
-                <a href="entrada.html">
+                <a href="entrada.php">
                     <h4>Terraza en el techo de tu casa</h4>
                     <p class="informacion-meta">Escrito el: <span>23/05/2023</span> por: <span>Admin</span></p>
                     <p>Consejo para construir una terraza en el techo de tu casa con los mejores materiales y ahorrando dinero</p>

@@ -4,12 +4,11 @@
 ?>
 
     <main class="contenedor seccion">
-        <h1>Crear</h1>
+        <h1>Administrador de bienes raices</h1>
 
-        <a href="/admin/propiedades/crear.php" class="boton boton-verde">Nueva propiedad</a>
+        <a href="/bienesraices/admin/propiedades/crear.php" class="boton boton-verde">Nueva propiedad</a>
     </main>
 
-<?php
-   
+<?php  
    incluirTemplate('footer');
 ?>
